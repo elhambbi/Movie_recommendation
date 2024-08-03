@@ -1,3 +1,4 @@
-## Recommendation System for MovieLens dataset
+## Information Retrievel
 
-The project of Information Retrievel course.
+Recommendation System for MovieLens dataset
+
